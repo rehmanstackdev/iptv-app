@@ -1,0 +1,13 @@
+.btn-golden{
+background-color: aquamarine;
+}
+.btn-golden:hover{
+    border: 2px aquamarine;
+    background-color: #FA788E;
+}
+.bg-blue{
+    background-color: #2563EB;
+}
+.bg-pink{
+    background-color: #FA788E;
+}
